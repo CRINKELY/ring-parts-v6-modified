@@ -1,5 +1,6 @@
 -- Rayfield version of Super Ring Parts by lukas — integrated live values & collision control
 -- Requires exploit environment (e.g. sethiddenproperty) — safely wrapped in pcall.
+-- Fixed rayfield import
 
 -- Services
 local Players = game:GetService("Players")
